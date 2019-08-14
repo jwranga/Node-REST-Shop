@@ -1,0 +1,27 @@
+{
+  "name": "node-rest-shop",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Tutorial Project (Build a simple shop API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwranga/Node-REST-Shop.git"
+  },
+  "keywords": [
+    "node",
+    "restfull",
+    "api"
+  ],
+  "author": "Ranga Lakshitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwranga/Node-REST-Shop/issues"
+  },
+  "homepage": "https://github.com/jwranga/Node-REST-Shop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
